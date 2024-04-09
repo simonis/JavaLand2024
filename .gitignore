@@ -1,0 +1,4 @@
+*~
+examples/jmh/java2native/target
+examples/jmh/java2native_nalim/target
+*.class

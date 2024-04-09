@@ -1,0 +1,3 @@
+[submodule "Java2Native"]
+	path = Java2Native
+	url = https://github.com/simonis/Java2Native
